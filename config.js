@@ -39,38 +39,38 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['62881025056559','karyl', true],
-['6288212912038', 'ciel', true]
+['62895324513343','Gurabotzmd', true],
+['62895324513343', 'Gurabotzmd', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62881025056559'
-global.nomorown = '6288212912038'
-global.nomorown1 = '6288212912038'
-global.nomorown2 = '6281361281833'
+global.nomorbot = '62895324513343'
+global.nomorown = '62895324513343'
+global.nomorown1 = '62895324513343'
+global.nomorown2 = '62895324513343'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created by ciel'
-global.namebot = 'karyl'
-global.wm = '© created by ciel'
+global.author = 'Created by irwan'
+global.namebot = 'Gurabotzmd'
+global.wm = '© created by Gurabotzmd'
 global.media = 'https://i.ibb.co/qF3Mxsx/thumbnail.jpg'
 global.watermark = wm
 global.wm2 = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `karyl`
-global.stickpack = 'karyl'
-global.stickauth = `© ciel`
+global.titlebot = `Gurabotz`
+global.stickpack = 'Gurabotz'
+global.stickauth = `© Gurabotzmd`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'ciel'
-global.nameown2 = 'karyl'
+global.nameown1= 'irwanxd'
+global.nameown2 = 'Gurabotz'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
@@ -84,12 +84,12 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCCatgbpeTQ0-xuqRc_hYuQA'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0813 6128 1833'
-global.pgopay = '0813 6128 1833'
+global.pdana = '-'
+global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0882 1291 2038'
-global.ppulsa2 = '088212912038'
-global.psaweria = 'https://saweria.co/hyuura'
+global.ppulsa = '-'
+global.ppulsa2 = '-'
+global.psaweria = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -273,7 +273,7 @@ global.thumbnailUrl = [
   'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
   'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
 ]
-global.fotonya1 = 'https://i.ibb.co/qF3Mxsx/thumbnail.jpg' //ganti jadi foto bot mu
+global.fotonya1 = 'https://telegra.ph/gura-11-11' //ganti jadi foto bot mu
 global.fotonya2 = 'https://i.ibb.co/qF3Mxsx/thumbnail.jpg' //ini juga ganti 
 global.flaaa2 = [
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=",
