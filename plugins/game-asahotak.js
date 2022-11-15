@@ -1,5 +1,5 @@
 
-import fetch from 'node-fetch'
+const fetch = require('node-fetch')
 let timeout = 120000
 let poin = 2500
 let handler = async (m, { conn, usedPrefix }) => {
@@ -30,4 +30,4 @@ handler.help = ['asahotak']
 handler.tags = ['game']
 handler.command = /^asahotak/i
 
-export default handler
+module.exports = handler
